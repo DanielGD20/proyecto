@@ -1,0 +1,9 @@
+{
+    "ImportPath": "go-dietas",
+    "GoVersion": "go1.5",
+    "GodepVersion": "v74",
+    "Packages": [
+        "./..."
+    ],
+    "Deps": []
+}
